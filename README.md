@@ -4,6 +4,7 @@
 <h6 align="center">Made with passion by Frogy.</a></h6>
 
 ## Preview
+![alt text](https://i.imgur.com/IUVbQdE.png)
 ![alt text](https://i.imgur.com/5TFu0RH.png)
 
 ## Features
