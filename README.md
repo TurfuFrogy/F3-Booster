@@ -1,7 +1,7 @@
 <h1 align="center">F3-Booster</h1>
 
 <h4 align="center">3️⃣ A Simple, Fast and Efficient F3 (https://play.google.com/store/apps/details?id=cool.f3) Affiliate Link Booster</h4>
-<h6 align="center">Made with passion by Frogy.</a></h6>
+<h6 align="center">Made with passion by Frogy - Please star the project if you use it :3</a></h6>
 
 ## Preview
 ![alt text](https://i.imgur.com/IUVbQdE.png)
