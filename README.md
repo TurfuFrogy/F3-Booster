@@ -12,11 +12,11 @@
 - MultiThreaded
 - Clean and Noob-Friendly UI
 
-## To Do List
-- Nothing for the moment, if you have a suggestion don't hesitate to open an issue and propose it!
-
 ## Usage
 You can either use the compiled version (.exe) in releases or use the Python version by downloading the dependencies in the requirements.txt file first.
+
+## To Do List
+- Nothing for the moment, if you have a suggestion don't hesitate to open an issue and propose it!
 
 ## About
 F3-Booster is a little script I made in 10 minutes for a friend.
